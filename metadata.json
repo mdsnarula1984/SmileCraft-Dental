@@ -1,0 +1,6 @@
+{
+  "name": "SmileCraft Dental",
+  "description": "Premium Metropolitan Dental Clinic & Smile Design Studio single page application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
